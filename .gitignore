@@ -1,0 +1,14 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore zip files
+*.zip
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore OOPS dir
+OOPS/
