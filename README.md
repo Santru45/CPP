@@ -1,1 +1,2 @@
 # CPP
+Welcome to my personal collection of C++ programs focused on mastering Data Structures and Algorithms. This repository is structured topic-wise and includes both basic and advanced problems implemented in C++.
